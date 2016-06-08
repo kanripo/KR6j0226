@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:18.180154
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:17
 #+TITLE: 祕密要術法
 #+PROPERTY: CBETA_ID X02n0188
 #+PROPERTY: ID KR6j0226
