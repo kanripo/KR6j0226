@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:28:18.180154
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:17
 #+TITLE: 祕密要術法
 #+PROPERTY: CBETA_ID X02n0188
 #+PROPERTY: ID KR6j0226
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 02, No. 188
 #+PROPERTY: VOL 02
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0226_X_001-0851b> 
 #+PROPERTY: JUAN 1
-No.188¶
-
- 祕密要術法¶
+No. 188¶
+祕密要術法¶
 三藏阿謨伽詔譯¶
 
 二手普通合掌當胸間真言曰。¶
